@@ -1,6 +1,3 @@
-# destabilizer
-AREA15 Destabilizer attraction
-
 # Destabilizer
 AREA15 attraction in testing. Users are presented with a form after scanning the QR code, they are then entered into a queue to wait their turn. They will then be 'destabilized' based on their theme selection on the form.
 
