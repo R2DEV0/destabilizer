@@ -3,4 +3,6 @@ AREA15 attraction in testing. Users are presented with a form after scanning the
 
 Technologies used: Next.js, Netlify, Electron.js, AWS, Strapi, Javascript/TypeScript, HTML, css, APIs (Stripe, Hubspot, Ticketure, Strapi, AWS, Netlify)
 
+Image below is in testing stage:
+
 ![Alt text](https://github.com/R2DEV0/destabilizer/blob/main/IMG_4543.jpg "Locker Example")
